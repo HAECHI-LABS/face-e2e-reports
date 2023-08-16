@@ -1,9 +1,9 @@
 {
     "name": "Face E2E Reports",
-    "date": 1692006183995,
-    "dateH": "8/14/2023, 9:43:03 AM",
-    "duration": 13195,
-    "durationH": "13.2s",
+    "date": 1692167555510,
+    "dateH": "8/16/2023, 6:32:35 AM",
+    "duration": 15165,
+    "durationH": "15.2s",
     "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
     "outputFile": "playwright-report/index.html",
     "outputDir": "playwright-report",
@@ -13,8 +13,8 @@
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -25,30 +25,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 330.74,
-            "hostname": "fv-az1098-975",
-            "pid": 2939,
+            "uptime": 484.93,
+            "hostname": "fv-az577-679",
+            "pid": 2888,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006183995,
+            "timestampStart": 1692167555512,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 2.02
+                        "percent": 4.46
                     },
                     "mem": {
-                        "free": 5639843840
+                        "free": 5624737792
                     },
-                    "timestamp": 1692006187034
+                    "timestamp": 1692167559082
                 },
                 {
                     "cpu": {
-                        "percent": 1.49
+                        "percent": 1
                     },
                     "mem": {
-                        "free": 5639819264
+                        "free": 5624737792
                     },
-                    "timestamp": 1692006187187
+                    "timestamp": 1692167559256
                 }
             ],
             "workers": 1,
@@ -60,14 +60,14 @@
             "testDir": "src",
             "outputFile": "test-results/POLYGON_parallel/index.html",
             "outputDir": "test-results/POLYGON_parallel",
-            "timestampEnd": 1692006187196
+            "timestampEnd": 1692167559277
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -78,30 +78,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 330.74,
-            "hostname": "fv-az1098-975",
-            "pid": 2950,
+            "uptime": 484.93,
+            "hostname": "fv-az577-679",
+            "pid": 2889,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006183996,
+            "timestampStart": 1692167555510,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 3
+                        "percent": 3.52
                     },
                     "mem": {
-                        "free": 5639843840
+                        "free": 5624737792
                     },
-                    "timestamp": 1692006187031
+                    "timestamp": 1692167559086
                 },
                 {
                     "cpu": {
-                        "percent": 1.49
+                        "percent": 1
                     },
                     "mem": {
-                        "free": 5639843840
+                        "free": 5624737792
                     },
-                    "timestamp": 1692006187183
+                    "timestamp": 1692167559256
                 }
             ],
             "workers": 1,
@@ -113,14 +113,14 @@
             "testDir": "src",
             "outputFile": "test-results/KLAYTN_parallel/index.html",
             "outputDir": "test-results/KLAYTN_parallel",
-            "timestampEnd": 1692006187196
+            "timestampEnd": 1692167559277
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -131,21 +131,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 335.24,
-            "hostname": "fv-az1098-975",
-            "pid": 3005,
+            "uptime": 490.33,
+            "hostname": "fv-az577-679",
+            "pid": 2952,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006188495,
+            "timestampStart": 1692167560911,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 1.01
+                        "percent": 5
                     },
                     "mem": {
-                        "free": 5669515264
+                        "free": 5661597696
                     },
-                    "timestamp": 1692006190458
+                    "timestamp": 1692167562959
+                },
+                {
+                    "cpu": {
+                        "percent": 1.5
+                    },
+                    "mem": {
+                        "free": 5661597696
+                    },
+                    "timestamp": 1692167563144
                 }
             ],
             "workers": 1,
@@ -157,14 +166,14 @@
             "testDir": "src",
             "outputFile": "test-results/HOME_VERSE_parallel/index.html",
             "outputDir": "test-results/HOME_VERSE_parallel",
-            "timestampEnd": 1692006190464
+            "timestampEnd": 1692167563154
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -175,21 +184,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 335.24,
-            "hostname": "fv-az1098-975",
-            "pid": 3006,
+            "uptime": 490.35,
+            "hostname": "fv-az577-679",
+            "pid": 2968,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006188490,
+            "timestampStart": 1692167560932,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 1.01
+                        "percent": 4.5
                     },
                     "mem": {
-                        "free": 5669515264
+                        "free": 5661597696
                     },
-                    "timestamp": 1692006190469
+                    "timestamp": 1692167562968
+                },
+                {
+                    "cpu": {
+                        "percent": 1.98
+                    },
+                    "mem": {
+                        "free": 5661597696
+                    },
+                    "timestamp": 1692167563137
                 }
             ],
             "workers": 1,
@@ -201,14 +219,14 @@
             "testDir": "src",
             "outputFile": "test-results/OASYS_parallel/index.html",
             "outputDir": "test-results/OASYS_parallel",
-            "timestampEnd": 1692006190475
+            "timestampEnd": 1692167563144
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -219,30 +237,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 338.51,
-            "hostname": "fv-az1098-975",
-            "pid": 3072,
+            "uptime": 494.12,
+            "hostname": "fv-az577-679",
+            "pid": 3022,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006191768,
+            "timestampStart": 1692167564704,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 3.5
+                        "percent": 6.9
                     },
                     "mem": {
-                        "free": 5670981632
+                        "free": 5659865088
                     },
-                    "timestamp": 1692006193772
+                    "timestamp": 1692167566750
                 },
                 {
                     "cpu": {
-                        "percent": 1
+                        "percent": 3
                     },
                     "mem": {
-                        "free": 5670981632
+                        "free": 5655670784
                     },
-                    "timestamp": 1692006193930
+                    "timestamp": 1692167566919
                 }
             ],
             "workers": 1,
@@ -254,14 +272,14 @@
             "testDir": "src",
             "outputFile": "test-results/POLYGON_serial/index.html",
             "outputDir": "test-results/POLYGON_serial",
-            "timestampEnd": 1692006193936
+            "timestampEnd": 1692167566927
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -272,30 +290,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 338.5,
-            "hostname": "fv-az1098-975",
-            "pid": 3071,
+            "uptime": 494.14,
+            "hostname": "fv-az577-679",
+            "pid": 3033,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006191757,
+            "timestampStart": 1692167564718,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 3.5
+                        "percent": 6.44
                     },
                     "mem": {
-                        "free": 5670981632
+                        "free": 5659865088
                     },
-                    "timestamp": 1692006193761
+                    "timestamp": 1692167566757
                 },
                 {
                     "cpu": {
-                        "percent": 1
+                        "percent": 3
                     },
                     "mem": {
-                        "free": 5670981632
+                        "free": 5655670784
                     },
-                    "timestamp": 1692006193929
+                    "timestamp": 1692167566927
                 }
             ],
             "workers": 1,
@@ -307,14 +325,14 @@
             "testDir": "src",
             "outputFile": "test-results/KLAYTN_serial/index.html",
             "outputDir": "test-results/KLAYTN_serial",
-            "timestampEnd": 1692006193935
+            "timestampEnd": 1692167566937
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -325,21 +343,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 341.96,
-            "hostname": "fv-az1098-975",
-            "pid": 3137,
+            "uptime": 497.89,
+            "hostname": "fv-az577-679",
+            "pid": 3092,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006195217,
+            "timestampStart": 1692167568471,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 1.52
+                        "percent": 2.55
                     },
                     "mem": {
-                        "free": 5653864448
+                        "free": 5663522816
                     },
-                    "timestamp": 1692006197185
+                    "timestamp": 1692167570540
+                },
+                {
+                    "cpu": {
+                        "percent": 0.51
+                    },
+                    "mem": {
+                        "free": 5663522816
+                    },
+                    "timestamp": 1692167570655
                 }
             ],
             "workers": 1,
@@ -351,14 +378,14 @@
             "testDir": "src",
             "outputFile": "test-results/HOME_VERSE_serial/index.html",
             "outputDir": "test-results/HOME_VERSE_serial",
-            "timestampEnd": 1692006197190
+            "timestampEnd": 1692167570661
         },
         {
             "cpu": {
                 "color": "#117DBB",
                 "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8370C CPU @ 2.80GHz",
-                "speed": 2793
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
             },
             "mem": {
                 "color": "#8B12AE",
@@ -369,21 +396,30 @@
             "release": "5.15.0-1042-azure",
             "type": "Linux",
             "version": "#49-Ubuntu SMP Tue Jul 11 17:28:46 UTC 2023",
-            "uptime": 341.97,
-            "hostname": "fv-az1098-975",
-            "pid": 3143,
+            "uptime": 497.91,
+            "hostname": "fv-az577-679",
+            "pid": 3103,
             "node": "16.20.1",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1692006195220,
+            "timestampStart": 1692167568489,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 2.02
+                        "percent": 2.55
                     },
                     "mem": {
-                        "free": 5653864448
+                        "free": 5663522816
                     },
-                    "timestamp": 1692006197174
+                    "timestamp": 1692167570539
+                },
+                {
+                    "cpu": {
+                        "percent": 1.51
+                    },
+                    "mem": {
+                        "free": 5663522816
+                    },
+                    "timestamp": 1692167570667
                 }
             ],
             "workers": 1,
@@ -395,7 +431,7 @@
             "testDir": "src",
             "outputFile": "test-results/OASYS_serial/index.html",
             "outputDir": "test-results/OASYS_serial",
-            "timestampEnd": 1692006197179
+            "timestampEnd": 1692167570675
         }
     ],
     "artifacts": [],
@@ -508,56 +544,56 @@
     ],
     "rows": [
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az1098-975",
+            "title": "fv-az577-679",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
