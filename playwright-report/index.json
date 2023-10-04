@@ -1,9 +1,9 @@
 {
     "name": "Face E2E Reports",
-    "date": 1696423570927,
-    "dateH": "10/4/2023, 12:46:10 PM",
-    "duration": 21688,
-    "durationH": "21.7s",
+    "date": 1696424465250,
+    "dateH": "10/4/2023, 1:01:05 PM",
+    "duration": 21896,
+    "durationH": "21.9s",
     "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
     "outputFile": "playwright-report/index.html",
     "outputDir": "playwright-report",
@@ -25,42 +25,42 @@
             "release": "6.2.0-1012-azure",
             "type": "Linux",
             "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 420.31,
-            "hostname": "fv-az626-627",
-            "pid": 4399,
+            "uptime": 212.59,
+            "hostname": "fv-az1241-59",
+            "pid": 2220,
             "node": "16.20.2",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423570927,
+            "timestampStart": 1696424465251,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 9.9
+                        "percent": 5.47
                     },
                     "mem": {
-                        "free": 5561405440
+                        "free": 5411352576
                     },
-                    "timestamp": 1696423574514
+                    "timestamp": 1696424468702
                 },
                 {
                     "cpu": {
-                        "percent": 10.89
+                        "percent": 3.94
                     },
                     "mem": {
-                        "free": 5550616576
+                        "free": 5411192832
                     },
-                    "timestamp": 1696423574643
+                    "timestamp": 1696424468870
                 }
             ],
             "workers": 1,
             "jobs": [],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
             "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
+            "playwright": "1.38.0",
             "monocart": "1.7.4",
             "testDir": "src",
             "outputFile": "test-results/POLYGON_parallel/index.html",
             "outputDir": "test-results/POLYGON_parallel",
-            "timestampEnd": 1696423574670
+            "timestampEnd": 1696424468878
         },
         {
             "cpu": {
@@ -78,42 +78,42 @@
             "release": "6.2.0-1012-azure",
             "type": "Linux",
             "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 420.31,
-            "hostname": "fv-az626-627",
-            "pid": 4410,
+            "uptime": 212.58,
+            "hostname": "fv-az1241-59",
+            "pid": 2226,
             "node": "16.20.2",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423570927,
+            "timestampStart": 1696424465250,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 9.9
+                        "percent": 5.45
                     },
                     "mem": {
-                        "free": 5561405440
+                        "free": 5411352576
                     },
-                    "timestamp": 1696423574514
+                    "timestamp": 1696424468704
                 },
                 {
                     "cpu": {
-                        "percent": 11.82
+                        "percent": 3.47
                     },
                     "mem": {
-                        "free": 5548953600
+                        "free": 5411352576
                     },
-                    "timestamp": 1696423574633
+                    "timestamp": 1696424468864
                 }
             ],
             "workers": 1,
             "jobs": [],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
             "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
+            "playwright": "1.38.0",
             "monocart": "1.7.4",
             "testDir": "src",
             "outputFile": "test-results/KLAYTN_parallel/index.html",
             "outputDir": "test-results/KLAYTN_parallel",
-            "timestampEnd": 1696423574670
+            "timestampEnd": 1696424468874
         },
         {
             "cpu": {
@@ -131,42 +131,42 @@
             "release": "6.2.0-1012-azure",
             "type": "Linux",
             "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 425.49,
-            "hostname": "fv-az626-627",
-            "pid": 4471,
+            "uptime": 217.63,
+            "hostname": "fv-az1241-59",
+            "pid": 2287,
             "node": "16.20.2",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423576104,
+            "timestampStart": 1696424470300,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 10.05
+                        "percent": 5.05
                     },
                     "mem": {
-                        "free": 5601697792
+                        "free": 5471498240
                     },
-                    "timestamp": 1696423578127
+                    "timestamp": 1696424472341
                 },
                 {
                     "cpu": {
-                        "percent": 4.98
+                        "percent": 0.51
                     },
                     "mem": {
-                        "free": 5601697792
+                        "free": 5471498240
                     },
-                    "timestamp": 1696423578226
+                    "timestamp": 1696424472510
                 }
             ],
             "workers": 1,
             "jobs": [],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
             "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
+            "playwright": "1.38.0",
             "monocart": "1.7.4",
             "testDir": "src",
             "outputFile": "test-results/HOME_VERSE_parallel/index.html",
             "outputDir": "test-results/HOME_VERSE_parallel",
-            "timestampEnd": 1696423578233
+            "timestampEnd": 1696424472516
         },
         {
             "cpu": {
@@ -184,42 +184,42 @@
             "release": "6.2.0-1012-azure",
             "type": "Linux",
             "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 425.54,
-            "hostname": "fv-az626-627",
-            "pid": 4483,
+            "uptime": 217.67,
+            "hostname": "fv-az1241-59",
+            "pid": 2298,
             "node": "16.20.2",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423576157,
+            "timestampStart": 1696424470332,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 5.03
+                        "percent": 3.05
                     },
                     "mem": {
-                        "free": 5601697792
+                        "free": 5471498240
                     },
-                    "timestamp": 1696423578211
+                    "timestamp": 1696424472372
                 },
                 {
                     "cpu": {
-                        "percent": 9
+                        "percent": 1.01
                     },
                     "mem": {
-                        "free": 5843714048
+                        "free": 5471498240
                     },
-                    "timestamp": 1696423578346
+                    "timestamp": 1696424472499
                 }
             ],
             "workers": 1,
             "jobs": [],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
             "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
+            "playwright": "1.38.0",
             "monocart": "1.7.4",
             "testDir": "src",
             "outputFile": "test-results/OASYS_parallel/index.html",
             "outputDir": "test-results/OASYS_parallel",
-            "timestampEnd": 1696423578352
+            "timestampEnd": 1696424472507
         },
         {
             "cpu": {
@@ -237,307 +237,413 @@
             "release": "6.2.0-1012-azure",
             "type": "Linux",
             "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 428.94,
-            "hostname": "fv-az626-627",
-            "pid": 4525,
+            "uptime": 221.27,
+            "hostname": "fv-az1241-59",
+            "pid": 2356,
             "node": "16.20.2",
             "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423579561,
+            "timestampStart": 1696424473936,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 11.06
+                        "percent": 4.55
                     },
                     "mem": {
-                        "free": 5816295424
+                        "free": 5469003776
                     },
-                    "timestamp": 1696423581564
-                },
-                {
-                    "cpu": {
-                        "percent": 8.54
-                    },
-                    "mem": {
-                        "free": 5816295424
-                    },
-                    "timestamp": 1696423581601
-                }
-            ],
-            "workers": 1,
-            "jobs": [],
-            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
-            "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
-            "monocart": "1.7.4",
-            "testDir": "src",
-            "outputFile": "test-results/YOOLDO_VERSE_parallel/index.html",
-            "outputDir": "test-results/YOOLDO_VERSE_parallel",
-            "timestampEnd": 1696423581611
-        },
-        {
-            "cpu": {
-                "color": "#117DBB",
-                "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-                "speed": 2095
-            },
-            "mem": {
-                "color": "#8B12AE",
-                "total": 7258234880
-            },
-            "arch": "x64",
-            "platform": "linux",
-            "release": "6.2.0-1012-azure",
-            "type": "Linux",
-            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 432.41,
-            "hostname": "fv-az626-627",
-            "pid": 4580,
-            "node": "16.20.2",
-            "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423583027,
-            "ticks": [
-                {
-                    "cpu": {
-                        "percent": 5.03
-                    },
-                    "mem": {
-                        "free": 5598375936
-                    },
-                    "timestamp": 1696423585121
-                },
-                {
-                    "cpu": {
-                        "percent": 3.02
-                    },
-                    "mem": {
-                        "free": 5598220288
-                    },
-                    "timestamp": 1696423585234
-                }
-            ],
-            "workers": 1,
-            "jobs": [],
-            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
-            "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
-            "monocart": "1.7.4",
-            "testDir": "src",
-            "outputFile": "test-results/POLYGON_serial/index.html",
-            "outputDir": "test-results/POLYGON_serial",
-            "timestampEnd": 1696423585240
-        },
-        {
-            "cpu": {
-                "color": "#117DBB",
-                "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-                "speed": 2095
-            },
-            "mem": {
-                "color": "#8B12AE",
-                "total": 7258234880
-            },
-            "arch": "x64",
-            "platform": "linux",
-            "release": "6.2.0-1012-azure",
-            "type": "Linux",
-            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 432.42,
-            "hostname": "fv-az626-627",
-            "pid": 4586,
-            "node": "16.20.2",
-            "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423583032,
-            "ticks": [
-                {
-                    "cpu": {
-                        "percent": 7.04
-                    },
-                    "mem": {
-                        "free": 5598375936
-                    },
-                    "timestamp": 1696423585089
-                },
-                {
-                    "cpu": {
-                        "percent": 3.48
-                    },
-                    "mem": {
-                        "free": 5598375936
-                    },
-                    "timestamp": 1696423585206
-                }
-            ],
-            "workers": 1,
-            "jobs": [],
-            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
-            "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
-            "monocart": "1.7.4",
-            "testDir": "src",
-            "outputFile": "test-results/KLAYTN_serial/index.html",
-            "outputDir": "test-results/KLAYTN_serial",
-            "timestampEnd": 1696423585215
-        },
-        {
-            "cpu": {
-                "color": "#117DBB",
-                "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-                "speed": 2095
-            },
-            "mem": {
-                "color": "#8B12AE",
-                "total": 7258234880
-            },
-            "arch": "x64",
-            "platform": "linux",
-            "release": "6.2.0-1012-azure",
-            "type": "Linux",
-            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 436.04,
-            "hostname": "fv-az626-627",
-            "pid": 4647,
-            "node": "16.20.2",
-            "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423586652,
-            "ticks": [
-                {
-                    "cpu": {
-                        "percent": 6.06
-                    },
-                    "mem": {
-                        "free": 5582864384
-                    },
-                    "timestamp": 1696423589068
-                },
-                {
-                    "cpu": {
-                        "percent": 3.54
-                    },
-                    "mem": {
-                        "free": 5582864384
-                    },
-                    "timestamp": 1696423589178
-                }
-            ],
-            "workers": 1,
-            "jobs": [],
-            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
-            "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
-            "monocart": "1.7.4",
-            "testDir": "src",
-            "outputFile": "test-results/HOME_VERSE_serial/index.html",
-            "outputDir": "test-results/HOME_VERSE_serial",
-            "timestampEnd": 1696423589185
-        },
-        {
-            "cpu": {
-                "color": "#117DBB",
-                "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-                "speed": 2095
-            },
-            "mem": {
-                "color": "#8B12AE",
-                "total": 7258234880
-            },
-            "arch": "x64",
-            "platform": "linux",
-            "release": "6.2.0-1012-azure",
-            "type": "Linux",
-            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 436.04,
-            "hostname": "fv-az626-627",
-            "pid": 4653,
-            "node": "16.20.2",
-            "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423586660,
-            "ticks": [
-                {
-                    "cpu": {
-                        "percent": 6.57
-                    },
-                    "mem": {
-                        "free": 5582864384
-                    },
-                    "timestamp": 1696423589056
-                },
-                {
-                    "cpu": {
-                        "percent": 3.54
-                    },
-                    "mem": {
-                        "free": 5582864384
-                    },
-                    "timestamp": 1696423589191
-                }
-            ],
-            "workers": 1,
-            "jobs": [],
-            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
-            "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
-            "monocart": "1.7.4",
-            "testDir": "src",
-            "outputFile": "test-results/OASYS_serial/index.html",
-            "outputDir": "test-results/OASYS_serial",
-            "timestampEnd": 1696423589197
-        },
-        {
-            "cpu": {
-                "color": "#117DBB",
-                "count": 2,
-                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
-                "speed": 2095
-            },
-            "mem": {
-                "color": "#8B12AE",
-                "total": 7258234880
-            },
-            "arch": "x64",
-            "platform": "linux",
-            "release": "6.2.0-1012-azure",
-            "type": "Linux",
-            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
-            "uptime": 439.92,
-            "hostname": "fv-az626-627",
-            "pid": 4701,
-            "node": "16.20.2",
-            "v8": "9.4.146.26-node.26",
-            "timestampStart": 1696423590539,
-            "ticks": [
-                {
-                    "cpu": {
-                        "percent": 2.51
-                    },
-                    "mem": {
-                        "free": 5806006272
-                    },
-                    "timestamp": 1696423592542
+                    "timestamp": 1696424475994
                 },
                 {
                     "cpu": {
                         "percent": 1
                     },
                     "mem": {
-                        "free": 5806006272
+                        "free": 5469003776
                     },
-                    "timestamp": 1696423592606
+                    "timestamp": 1696424476181
                 }
             ],
             "workers": 1,
             "jobs": [],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
             "configFile": "cmd/config/playwright.config.ts",
-            "playwright": "1.37.0",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/YOOLDO_VERSE_parallel/index.html",
+            "outputDir": "test-results/YOOLDO_VERSE_parallel",
+            "timestampEnd": 1696424476196
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 221.3,
+            "hostname": "fv-az1241-59",
+            "pid": 2367,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424473971,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 4
+                    },
+                    "mem": {
+                        "free": 5469003776
+                    },
+                    "timestamp": 1696424476012
+                },
+                {
+                    "cpu": {
+                        "percent": 1.01
+                    },
+                    "mem": {
+                        "free": 5469003776
+                    },
+                    "timestamp": 1696424476175
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/MCH_VERSE_parallel/index.html",
+            "outputDir": "test-results/MCH_VERSE_parallel",
+            "timestampEnd": 1696424476183
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 224.93,
+            "hostname": "fv-az1241-59",
+            "pid": 2423,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424477599,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 10.5
+                    },
+                    "mem": {
+                        "free": 5468856320
+                    },
+                    "timestamp": 1696424479673
+                },
+                {
+                    "cpu": {
+                        "percent": 4.46
+                    },
+                    "mem": {
+                        "free": 5468856320
+                    },
+                    "timestamp": 1696424479770
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/POLYGON_serial/index.html",
+            "outputDir": "test-results/POLYGON_serial",
+            "timestampEnd": 1696424479778
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 225.02,
+            "hostname": "fv-az1241-59",
+            "pid": 2435,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424477687,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 4.46
+                    },
+                    "mem": {
+                        "free": 5468856320
+                    },
+                    "timestamp": 1696424479769
+                },
+                {
+                    "cpu": {
+                        "percent": 7.04
+                    },
+                    "mem": {
+                        "free": 5698023424
+                    },
+                    "timestamp": 1696424479878
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/KLAYTN_serial/index.html",
+            "outputDir": "test-results/KLAYTN_serial",
+            "timestampEnd": 1696424479886
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 228.54,
+            "hostname": "fv-az1241-59",
+            "pid": 2487,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424481210,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 8.54
+                    },
+                    "mem": {
+                        "free": 5471277056
+                    },
+                    "timestamp": 1696424483309
+                },
+                {
+                    "cpu": {
+                        "percent": 5.56
+                    },
+                    "mem": {
+                        "free": 5471277056
+                    },
+                    "timestamp": 1696424483423
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/HOME_VERSE_serial/index.html",
+            "outputDir": "test-results/HOME_VERSE_serial",
+            "timestampEnd": 1696424483432
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 228.66,
+            "hostname": "fv-az1241-59",
+            "pid": 2503,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424481322,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 7.54
+                    },
+                    "mem": {
+                        "free": 5471277056
+                    },
+                    "timestamp": 1696424483331
+                },
+                {
+                    "cpu": {
+                        "percent": 8.54
+                    },
+                    "mem": {
+                        "free": 5697134592
+                    },
+                    "timestamp": 1696424483520
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/OASYS_serial/index.html",
+            "outputDir": "test-results/OASYS_serial",
+            "timestampEnd": 1696424483548
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 232.22,
+            "hostname": "fv-az1241-59",
+            "pid": 2555,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424484882,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 6.06
+                    },
+                    "mem": {
+                        "free": 5482700800
+                    },
+                    "timestamp": 1696424486945
+                },
+                {
+                    "cpu": {
+                        "percent": 2.53
+                    },
+                    "mem": {
+                        "free": 5482700800
+                    },
+                    "timestamp": 1696424487046
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
             "monocart": "1.7.4",
             "testDir": "src",
             "outputFile": "test-results/YOOLDO_VERSE_serial/index.html",
             "outputDir": "test-results/YOOLDO_VERSE_serial",
-            "timestampEnd": 1696423592615
+            "timestampEnd": 1696424487055
+        },
+        {
+            "cpu": {
+                "color": "#117DBB",
+                "count": 2,
+                "model": "Intel(R) Xeon(R) Platinum 8171M CPU @ 2.60GHz",
+                "speed": 2095
+            },
+            "mem": {
+                "color": "#8B12AE",
+                "total": 7258234880
+            },
+            "arch": "x64",
+            "platform": "linux",
+            "release": "6.2.0-1012-azure",
+            "type": "Linux",
+            "version": "#12~22.04.1-Ubuntu SMP Thu Sep  7 14:07:14 UTC 2023",
+            "uptime": 232.3,
+            "hostname": "fv-az1241-59",
+            "pid": 2571,
+            "node": "16.20.2",
+            "v8": "9.4.146.26-node.26",
+            "timestampStart": 1696424484966,
+            "ticks": [
+                {
+                    "cpu": {
+                        "percent": 4.5
+                    },
+                    "mem": {
+                        "free": 5482700800
+                    },
+                    "timestamp": 1696424486980
+                },
+                {
+                    "cpu": {
+                        "percent": 3.52
+                    },
+                    "mem": {
+                        "free": 5707206656
+                    },
+                    "timestamp": 1696424487138
+                }
+            ],
+            "workers": 1,
+            "jobs": [],
+            "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e",
+            "configFile": "cmd/config/playwright.config.ts",
+            "playwright": "1.38.0",
+            "monocart": "1.7.4",
+            "testDir": "src",
+            "outputFile": "test-results/MCH_VERSE_serial/index.html",
+            "outputDir": "test-results/MCH_VERSE_serial",
+            "timestampEnd": 1696424487146
         }
     ],
     "artifacts": [],
@@ -650,70 +756,84 @@
     ],
     "rows": [
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
             "subs": []
         },
         {
-            "title": "fv-az626-627",
+            "title": "fv-az1241-59",
+            "type": "suite",
+            "suiteType": "shard",
+            "caseNum": 0,
+            "subs": []
+        },
+        {
+            "title": "fv-az1241-59",
+            "type": "suite",
+            "suiteType": "shard",
+            "caseNum": 0,
+            "subs": []
+        },
+        {
+            "title": "fv-az1241-59",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 0,
@@ -805,7 +925,7 @@
         "shards": {
             "name": "Shards",
             "description": "Suite type is shard (only in shading mode)",
-            "value": 10,
+            "value": 12,
             "id": "shards"
         },
         "retries": {
