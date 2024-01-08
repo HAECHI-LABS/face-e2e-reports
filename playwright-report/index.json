@@ -1,9 +1,9 @@
 {
     "name": "FW Dashboard E2E Reports",
-    "date": 1704687133443,
-    "dateH": "1/8/2024, 4:12:13 AM",
-    "duration": 145071,
-    "durationH": "2m 25s",
+    "date": 1704687656945,
+    "dateH": "1/8/2024, 4:20:56 AM",
+    "duration": 19956,
+    "durationH": "19.10s",
     "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e-dashboard",
     "outputFile": "playwright-report/index.html",
     "outputDir": "playwright-report",
@@ -27,669 +27,102 @@
             "release": "6.2.0-1018-azure",
             "type": "Linux",
             "version": "#18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023",
-            "uptime": 195.97,
-            "hostname": "fv-az339-507",
-            "pid": 3067,
+            "uptime": 117.05,
+            "hostname": "fv-az557-521",
+            "pid": 3063,
             "node": "18.19.0",
             "v8": "10.2.154.26-node.28",
-            "timestampStart": 1704687133443,
+            "timestampStart": 1704687656945,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 75.77
+                        "percent": 14.29
                     },
                     "mem": {
-                        "free": 5396606976
+                        "free": 5399449600
                     },
-                    "timestamp": 1704687135444
+                    "timestamp": 1704687658947
                 },
                 {
                     "cpu": {
-                        "percent": 3.52
+                        "percent": 0
                     },
                     "mem": {
-                        "free": 5387173888
+                        "free": 5396922368
                     },
-                    "timestamp": 1704687137445
+                    "timestamp": 1704687660949
                 },
                 {
                     "cpu": {
                         "percent": 100
                     },
                     "mem": {
-                        "free": 5206478848
+                        "free": 5265817600
                     },
-                    "timestamp": 1704687139446
+                    "timestamp": 1704687662951
                 },
                 {
                     "cpu": {
-                        "percent": 5.53
+                        "percent": 23.08
                     },
                     "mem": {
-                        "free": 4960899072
+                        "free": 4960071680
                     },
-                    "timestamp": 1704687141447
+                    "timestamp": 1704687664951
                 },
                 {
                     "cpu": {
-                        "percent": 31.5
+                        "percent": 2.53
                     },
                     "mem": {
-                        "free": 4887756800
+                        "free": 4954124288
                     },
-                    "timestamp": 1704687143449
+                    "timestamp": 1704687666951
                 },
                 {
                     "cpu": {
-                        "percent": 10.15
+                        "percent": 80.5
                     },
                     "mem": {
-                        "free": 4796215296
+                        "free": 4814004224
                     },
-                    "timestamp": 1704687145449
+                    "timestamp": 1704687668952
                 },
                 {
                     "cpu": {
-                        "percent": 35.03
+                        "percent": 48.5
                     },
                     "mem": {
-                        "free": 4734877696
+                        "free": 4766101504
                     },
-                    "timestamp": 1704687147450
+                    "timestamp": 1704687670953
                 },
                 {
                     "cpu": {
-                        "percent": 2.96
+                        "percent": 86.87
                     },
                     "mem": {
-                        "free": 4743135232
+                        "free": 4701020160
                     },
-                    "timestamp": 1704687149451
+                    "timestamp": 1704687672957
                 },
                 {
                     "cpu": {
-                        "percent": 2.5
+                        "percent": 88.89
                     },
                     "mem": {
-                        "free": 4738379776
+                        "free": 4805021696
                     },
-                    "timestamp": 1704687151451
+                    "timestamp": 1704687674957
                 },
                 {
                     "cpu": {
-                        "percent": 4.5
+                        "percent": 7.46
                     },
                     "mem": {
-                        "free": 4739411968
+                        "free": 5674070016
                     },
-                    "timestamp": 1704687153452
-                },
-                {
-                    "cpu": {
-                        "percent": 5.08
-                    },
-                    "mem": {
-                        "free": 4841893888
-                    },
-                    "timestamp": 1704687155452
-                },
-                {
-                    "cpu": {
-                        "percent": 65.15
-                    },
-                    "mem": {
-                        "free": 5089239040
-                    },
-                    "timestamp": 1704687157453
-                },
-                {
-                    "cpu": {
-                        "percent": 45.27
-                    },
-                    "mem": {
-                        "free": 4955824128
-                    },
-                    "timestamp": 1704687159453
-                },
-                {
-                    "cpu": {
-                        "percent": 8.67
-                    },
-                    "mem": {
-                        "free": 4907696128
-                    },
-                    "timestamp": 1704687161454
-                },
-                {
-                    "cpu": {
-                        "percent": 5
-                    },
-                    "mem": {
-                        "free": 4884398080
-                    },
-                    "timestamp": 1704687163456
-                },
-                {
-                    "cpu": {
-                        "percent": 3.52
-                    },
-                    "mem": {
-                        "free": 4884398080
-                    },
-                    "timestamp": 1704687165456
-                },
-                {
-                    "cpu": {
-                        "percent": 14
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687167457
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687169458
-                },
-                {
-                    "cpu": {
-                        "percent": 4.57
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687171460
-                },
-                {
-                    "cpu": {
-                        "percent": 62.31
-                    },
-                    "mem": {
-                        "free": 5082492928
-                    },
-                    "timestamp": 1704687173462
-                },
-                {
-                    "cpu": {
-                        "percent": 21
-                    },
-                    "mem": {
-                        "free": 5034868736
-                    },
-                    "timestamp": 1704687175464
-                },
-                {
-                    "cpu": {
-                        "percent": 27.23
-                    },
-                    "mem": {
-                        "free": 4999680000
-                    },
-                    "timestamp": 1704687177464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.99
-                    },
-                    "mem": {
-                        "free": 4999684096
-                    },
-                    "timestamp": 1704687179464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.99
-                    },
-                    "mem": {
-                        "free": 4996268032
-                    },
-                    "timestamp": 1704687181464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5001908224
-                    },
-                    "timestamp": 1704687183465
-                },
-                {
-                    "cpu": {
-                        "percent": 2.5
-                    },
-                    "mem": {
-                        "free": 5001920512
-                    },
-                    "timestamp": 1704687185466
-                },
-                {
-                    "cpu": {
-                        "percent": 17.68
-                    },
-                    "mem": {
-                        "free": 5298765824
-                    },
-                    "timestamp": 1704687187467
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5567864832
-                    },
-                    "timestamp": 1704687189469
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5567606784
-                    },
-                    "timestamp": 1704687191469
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687193471
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687195471
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687197473
-                },
-                {
-                    "cpu": {
-                        "percent": 2.46
-                    },
-                    "mem": {
-                        "free": 5567627264
-                    },
-                    "timestamp": 1704687199473
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5565820928
-                    },
-                    "timestamp": 1704687201474
-                },
-                {
-                    "cpu": {
-                        "percent": 16
-                    },
-                    "mem": {
-                        "free": 5565829120
-                    },
-                    "timestamp": 1704687203475
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5564022784
-                    },
-                    "timestamp": 1704687205475
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5559828480
-                    },
-                    "timestamp": 1704687207476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687209476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687211476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687213477
-                },
-                {
-                    "cpu": {
-                        "percent": 7.04
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687215478
-                },
-                {
-                    "cpu": {
-                        "percent": 1.01
-                    },
-                    "mem": {
-                        "free": 5555642368
-                    },
-                    "timestamp": 1704687217478
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555367936
-                    },
-                    "timestamp": 1704687219479
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555367936
-                    },
-                    "timestamp": 1704687221479
-                },
-                {
-                    "cpu": {
-                        "percent": 1.51
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687223480
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687225480
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687227481
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687229483
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687231483
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687233484
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687235485
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5551198208
-                    },
-                    "timestamp": 1704687237485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551198208
-                    },
-                    "timestamp": 1704687239485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551214592
-                    },
-                    "timestamp": 1704687241485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551214592
-                    },
-                    "timestamp": 1704687243485
-                },
-                {
-                    "cpu": {
-                        "percent": 6.06
-                    },
-                    "mem": {
-                        "free": 5549096960
-                    },
-                    "timestamp": 1704687245485
-                },
-                {
-                    "cpu": {
-                        "percent": 27.09
-                    },
-                    "mem": {
-                        "free": 5701382144
-                    },
-                    "timestamp": 1704687247486
-                },
-                {
-                    "cpu": {
-                        "percent": 43.78
-                    },
-                    "mem": {
-                        "free": 5524766720
-                    },
-                    "timestamp": 1704687249486
-                },
-                {
-                    "cpu": {
-                        "percent": 12.06
-                    },
-                    "mem": {
-                        "free": 5494206464
-                    },
-                    "timestamp": 1704687251487
-                },
-                {
-                    "cpu": {
-                        "percent": 3.57
-                    },
-                    "mem": {
-                        "free": 5445390336
-                    },
-                    "timestamp": 1704687253487
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5443059712
-                    },
-                    "timestamp": 1704687255488
-                },
-                {
-                    "cpu": {
-                        "percent": 1.51
-                    },
-                    "mem": {
-                        "free": 5483802624
-                    },
-                    "timestamp": 1704687257488
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5483810816
-                    },
-                    "timestamp": 1704687259488
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5483810816
-                    },
-                    "timestamp": 1704687261489
-                },
-                {
-                    "cpu": {
-                        "percent": 47.98
-                    },
-                    "mem": {
-                        "free": 5580279808
-                    },
-                    "timestamp": 1704687263490
-                },
-                {
-                    "cpu": {
-                        "percent": 39.59
-                    },
-                    "mem": {
-                        "free": 5483388928
-                    },
-                    "timestamp": 1704687265490
-                },
-                {
-                    "cpu": {
-                        "percent": 29.95
-                    },
-                    "mem": {
-                        "free": 5440995328
-                    },
-                    "timestamp": 1704687267491
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5440995328
-                    },
-                    "timestamp": 1704687269492
-                },
-                {
-                    "cpu": {
-                        "percent": 4.02
-                    },
-                    "mem": {
-                        "free": 5482262528
-                    },
-                    "timestamp": 1704687271493
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5482270720
-                    },
-                    "timestamp": 1704687273493
-                },
-                {
-                    "cpu": {
-                        "percent": 1.01
-                    },
-                    "mem": {
-                        "free": 5482270720
-                    },
-                    "timestamp": 1704687275494
-                },
-                {
-                    "cpu": {
-                        "percent": 18.72
-                    },
-                    "mem": {
-                        "free": 5734916096
-                    },
-                    "timestamp": 1704687277509
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5734567936
-                    },
-                    "timestamp": 1704687278509
+                    "timestamp": 1704687676896
                 }
             ],
             "workers": 1,
@@ -698,22 +131,8 @@
                     "caseId": "63bb86d2504bb6186558",
                     "parallelIndex": 0,
                     "workerIndex": 0,
-                    "timestamp": 1704687139779,
-                    "duration": 77276
-                },
-                {
-                    "caseId": "63bb86d2504bb6186558",
-                    "parallelIndex": 0,
-                    "workerIndex": 1,
-                    "timestamp": 1704687247677,
-                    "duration": 14593
-                },
-                {
-                    "caseId": "63bb86d2504bb6186558",
-                    "parallelIndex": 0,
-                    "workerIndex": 2,
-                    "timestamp": 1704687262887,
-                    "duration": 14594
+                    "timestamp": 1704687663663,
+                    "duration": 12190
                 }
             ],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e-dashboard",
@@ -723,7 +142,7 @@
             "testDir": "src",
             "outputFile": "test-results/index.html",
             "outputDir": "test-results",
-            "timestampEnd": 1704687278514
+            "timestampEnd": 1704687676901
         },
         {
             "cpu": {
@@ -741,669 +160,102 @@
             "release": "6.2.0-1018-azure",
             "type": "Linux",
             "version": "#18~22.04.1-Ubuntu SMP Tue Nov 21 19:25:02 UTC 2023",
-            "uptime": 195.97,
-            "hostname": "fv-az339-507",
-            "pid": 3067,
+            "uptime": 117.05,
+            "hostname": "fv-az557-521",
+            "pid": 3063,
             "node": "18.19.0",
             "v8": "10.2.154.26-node.28",
-            "timestampStart": 1704687133443,
+            "timestampStart": 1704687656945,
             "ticks": [
                 {
                     "cpu": {
-                        "percent": 75.77
+                        "percent": 14.29
                     },
                     "mem": {
-                        "free": 5396606976
+                        "free": 5399449600
                     },
-                    "timestamp": 1704687135444
+                    "timestamp": 1704687658947
                 },
                 {
                     "cpu": {
-                        "percent": 3.52
+                        "percent": 0
                     },
                     "mem": {
-                        "free": 5387173888
+                        "free": 5396922368
                     },
-                    "timestamp": 1704687137445
+                    "timestamp": 1704687660949
                 },
                 {
                     "cpu": {
                         "percent": 100
                     },
                     "mem": {
-                        "free": 5206478848
+                        "free": 5265817600
                     },
-                    "timestamp": 1704687139446
+                    "timestamp": 1704687662951
                 },
                 {
                     "cpu": {
-                        "percent": 5.53
+                        "percent": 23.08
                     },
                     "mem": {
-                        "free": 4960899072
+                        "free": 4960071680
                     },
-                    "timestamp": 1704687141447
+                    "timestamp": 1704687664951
                 },
                 {
                     "cpu": {
-                        "percent": 31.5
+                        "percent": 2.53
                     },
                     "mem": {
-                        "free": 4887756800
+                        "free": 4954124288
                     },
-                    "timestamp": 1704687143449
+                    "timestamp": 1704687666951
                 },
                 {
                     "cpu": {
-                        "percent": 10.15
+                        "percent": 80.5
                     },
                     "mem": {
-                        "free": 4796215296
+                        "free": 4814004224
                     },
-                    "timestamp": 1704687145449
+                    "timestamp": 1704687668952
                 },
                 {
                     "cpu": {
-                        "percent": 35.03
+                        "percent": 48.5
                     },
                     "mem": {
-                        "free": 4734877696
+                        "free": 4766101504
                     },
-                    "timestamp": 1704687147450
+                    "timestamp": 1704687670953
                 },
                 {
                     "cpu": {
-                        "percent": 2.96
+                        "percent": 86.87
                     },
                     "mem": {
-                        "free": 4743135232
+                        "free": 4701020160
                     },
-                    "timestamp": 1704687149451
+                    "timestamp": 1704687672957
                 },
                 {
                     "cpu": {
-                        "percent": 2.5
+                        "percent": 88.89
                     },
                     "mem": {
-                        "free": 4738379776
+                        "free": 4805021696
                     },
-                    "timestamp": 1704687151451
+                    "timestamp": 1704687674957
                 },
                 {
                     "cpu": {
-                        "percent": 4.5
+                        "percent": 7.46
                     },
                     "mem": {
-                        "free": 4739411968
+                        "free": 5674070016
                     },
-                    "timestamp": 1704687153452
-                },
-                {
-                    "cpu": {
-                        "percent": 5.08
-                    },
-                    "mem": {
-                        "free": 4841893888
-                    },
-                    "timestamp": 1704687155452
-                },
-                {
-                    "cpu": {
-                        "percent": 65.15
-                    },
-                    "mem": {
-                        "free": 5089239040
-                    },
-                    "timestamp": 1704687157453
-                },
-                {
-                    "cpu": {
-                        "percent": 45.27
-                    },
-                    "mem": {
-                        "free": 4955824128
-                    },
-                    "timestamp": 1704687159453
-                },
-                {
-                    "cpu": {
-                        "percent": 8.67
-                    },
-                    "mem": {
-                        "free": 4907696128
-                    },
-                    "timestamp": 1704687161454
-                },
-                {
-                    "cpu": {
-                        "percent": 5
-                    },
-                    "mem": {
-                        "free": 4884398080
-                    },
-                    "timestamp": 1704687163456
-                },
-                {
-                    "cpu": {
-                        "percent": 3.52
-                    },
-                    "mem": {
-                        "free": 4884398080
-                    },
-                    "timestamp": 1704687165456
-                },
-                {
-                    "cpu": {
-                        "percent": 14
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687167457
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687169458
-                },
-                {
-                    "cpu": {
-                        "percent": 4.57
-                    },
-                    "mem": {
-                        "free": 4927406080
-                    },
-                    "timestamp": 1704687171460
-                },
-                {
-                    "cpu": {
-                        "percent": 62.31
-                    },
-                    "mem": {
-                        "free": 5082492928
-                    },
-                    "timestamp": 1704687173462
-                },
-                {
-                    "cpu": {
-                        "percent": 21
-                    },
-                    "mem": {
-                        "free": 5034868736
-                    },
-                    "timestamp": 1704687175464
-                },
-                {
-                    "cpu": {
-                        "percent": 27.23
-                    },
-                    "mem": {
-                        "free": 4999680000
-                    },
-                    "timestamp": 1704687177464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.99
-                    },
-                    "mem": {
-                        "free": 4999684096
-                    },
-                    "timestamp": 1704687179464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.99
-                    },
-                    "mem": {
-                        "free": 4996268032
-                    },
-                    "timestamp": 1704687181464
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5001908224
-                    },
-                    "timestamp": 1704687183465
-                },
-                {
-                    "cpu": {
-                        "percent": 2.5
-                    },
-                    "mem": {
-                        "free": 5001920512
-                    },
-                    "timestamp": 1704687185466
-                },
-                {
-                    "cpu": {
-                        "percent": 17.68
-                    },
-                    "mem": {
-                        "free": 5298765824
-                    },
-                    "timestamp": 1704687187467
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5567864832
-                    },
-                    "timestamp": 1704687189469
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5567606784
-                    },
-                    "timestamp": 1704687191469
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687193471
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687195471
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5567619072
-                    },
-                    "timestamp": 1704687197473
-                },
-                {
-                    "cpu": {
-                        "percent": 2.46
-                    },
-                    "mem": {
-                        "free": 5567627264
-                    },
-                    "timestamp": 1704687199473
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5565820928
-                    },
-                    "timestamp": 1704687201474
-                },
-                {
-                    "cpu": {
-                        "percent": 16
-                    },
-                    "mem": {
-                        "free": 5565829120
-                    },
-                    "timestamp": 1704687203475
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5564022784
-                    },
-                    "timestamp": 1704687205475
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5559828480
-                    },
-                    "timestamp": 1704687207476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687209476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687211476
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687213477
-                },
-                {
-                    "cpu": {
-                        "percent": 7.04
-                    },
-                    "mem": {
-                        "free": 5559836672
-                    },
-                    "timestamp": 1704687215478
-                },
-                {
-                    "cpu": {
-                        "percent": 1.01
-                    },
-                    "mem": {
-                        "free": 5555642368
-                    },
-                    "timestamp": 1704687217478
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555367936
-                    },
-                    "timestamp": 1704687219479
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555367936
-                    },
-                    "timestamp": 1704687221479
-                },
-                {
-                    "cpu": {
-                        "percent": 1.51
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687223480
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687225480
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687227481
-                },
-                {
-                    "cpu": {
-                        "percent": 0
-                    },
-                    "mem": {
-                        "free": 5555376128
-                    },
-                    "timestamp": 1704687229483
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687231483
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687233484
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5555384320
-                    },
-                    "timestamp": 1704687235485
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5551198208
-                    },
-                    "timestamp": 1704687237485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551198208
-                    },
-                    "timestamp": 1704687239485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551214592
-                    },
-                    "timestamp": 1704687241485
-                },
-                {
-                    "cpu": {
-                        "percent": 0.5
-                    },
-                    "mem": {
-                        "free": 5551214592
-                    },
-                    "timestamp": 1704687243485
-                },
-                {
-                    "cpu": {
-                        "percent": 6.06
-                    },
-                    "mem": {
-                        "free": 5549096960
-                    },
-                    "timestamp": 1704687245485
-                },
-                {
-                    "cpu": {
-                        "percent": 27.09
-                    },
-                    "mem": {
-                        "free": 5701382144
-                    },
-                    "timestamp": 1704687247486
-                },
-                {
-                    "cpu": {
-                        "percent": 43.78
-                    },
-                    "mem": {
-                        "free": 5524766720
-                    },
-                    "timestamp": 1704687249486
-                },
-                {
-                    "cpu": {
-                        "percent": 12.06
-                    },
-                    "mem": {
-                        "free": 5494206464
-                    },
-                    "timestamp": 1704687251487
-                },
-                {
-                    "cpu": {
-                        "percent": 3.57
-                    },
-                    "mem": {
-                        "free": 5445390336
-                    },
-                    "timestamp": 1704687253487
-                },
-                {
-                    "cpu": {
-                        "percent": 1.5
-                    },
-                    "mem": {
-                        "free": 5443059712
-                    },
-                    "timestamp": 1704687255488
-                },
-                {
-                    "cpu": {
-                        "percent": 1.51
-                    },
-                    "mem": {
-                        "free": 5483802624
-                    },
-                    "timestamp": 1704687257488
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5483810816
-                    },
-                    "timestamp": 1704687259488
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5483810816
-                    },
-                    "timestamp": 1704687261489
-                },
-                {
-                    "cpu": {
-                        "percent": 47.98
-                    },
-                    "mem": {
-                        "free": 5580279808
-                    },
-                    "timestamp": 1704687263490
-                },
-                {
-                    "cpu": {
-                        "percent": 39.59
-                    },
-                    "mem": {
-                        "free": 5483388928
-                    },
-                    "timestamp": 1704687265490
-                },
-                {
-                    "cpu": {
-                        "percent": 29.95
-                    },
-                    "mem": {
-                        "free": 5440995328
-                    },
-                    "timestamp": 1704687267491
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5440995328
-                    },
-                    "timestamp": 1704687269492
-                },
-                {
-                    "cpu": {
-                        "percent": 4.02
-                    },
-                    "mem": {
-                        "free": 5482262528
-                    },
-                    "timestamp": 1704687271493
-                },
-                {
-                    "cpu": {
-                        "percent": 0.51
-                    },
-                    "mem": {
-                        "free": 5482270720
-                    },
-                    "timestamp": 1704687273493
-                },
-                {
-                    "cpu": {
-                        "percent": 1.01
-                    },
-                    "mem": {
-                        "free": 5482270720
-                    },
-                    "timestamp": 1704687275494
-                },
-                {
-                    "cpu": {
-                        "percent": 18.72
-                    },
-                    "mem": {
-                        "free": 5734916096
-                    },
-                    "timestamp": 1704687277509
-                },
-                {
-                    "cpu": {
-                        "percent": 1
-                    },
-                    "mem": {
-                        "free": 5734567936
-                    },
-                    "timestamp": 1704687278509
+                    "timestamp": 1704687676896
                 }
             ],
             "workers": 1,
@@ -1412,22 +264,8 @@
                     "caseId": "63bb86d2504bb6186558",
                     "parallelIndex": 0,
                     "workerIndex": 0,
-                    "timestamp": 1704687139779,
-                    "duration": 77276
-                },
-                {
-                    "caseId": "63bb86d2504bb6186558",
-                    "parallelIndex": 0,
-                    "workerIndex": 1,
-                    "timestamp": 1704687247677,
-                    "duration": 14593
-                },
-                {
-                    "caseId": "63bb86d2504bb6186558",
-                    "parallelIndex": 0,
-                    "workerIndex": 2,
-                    "timestamp": 1704687262887,
-                    "duration": 14594
+                    "timestamp": 1704687663663,
+                    "duration": 12190
                 }
             ],
             "cwd": "/home/runner/work/face-mask/face-mask/packages/e2e-dashboard",
@@ -1437,7 +275,7 @@
             "testDir": "src",
             "outputFile": "test-results/index.html",
             "outputDir": "test-results",
-            "timestampEnd": 1704687278514
+            "timestampEnd": 1704687676901
         }
     ],
     "artifacts": [],
@@ -1550,13 +388,13 @@
     ],
     "rows": [
         {
-            "title": "fv-az339-507",
+            "title": "fv-az557-521",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 1,
             "subs": [
                 {
-                    "id": "x41zni7gxtb0tlkgagez",
+                    "id": "x4buy3hqbeb1tbwj5pxt",
                     "title": "project",
                     "type": "suite",
                     "suiteType": "project",
@@ -1573,259 +411,67 @@
                                     "id": "63bb86d2504bb6186558",
                                     "title": "check if token exists for current chain",
                                     "type": "case",
-                                    "caseType": "failed",
-                                    "ok": false,
-                                    "outcome": "unexpected",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
                                     "expectedStatus": "passed",
                                     "location": "src/scenarios/test/example.test.ts:3:5",
                                     "timestamps": [
-                                        1704687139779,
-                                        1704687217055,
-                                        1704687247677,
-                                        1704687262270,
-                                        1704687262887,
-                                        1704687277481
+                                        1704687663663,
+                                        1704687675853
                                     ],
-                                    "duration": 137702,
+                                    "duration": 12190,
                                     "timeout": 60000,
-                                    "retry": 2,
-                                    "status": "failed",
-                                    "stepNum": 66,
-                                    "stepFailed": 9,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 26,
+                                    "stepFailed": 0,
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "ayzedxu83s7v4gjbpkds",
+                                            "id": "ji7pyb908yflz13vb61p",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 17012,
+                                            "duration": 9339,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "zwxots71vdk1l8gpaika",
+                                                    "id": "g8ss78d0vy3j5jbtja2j",
                                                     "title": "fixture: browser",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 312,
+                                                    "duration": 281,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0ce1rm2pxoo2mjaj98mj",
+                                                            "id": "kjcjdngwnxqq79wkbvyo",
                                                             "title": "browserType.launch",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 305,
+                                                            "duration": 276,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "48w7m290zitd3vzn1a3x",
+                                                    "id": "uk0463x655acsbexw7uo",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 103,
+                                                    "duration": 34,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0godl1nb67neqj74ehzy",
+                                                            "id": "njit9wzfu3oj82gcw0hy",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 49,
+                                                            "duration": 17,
                                                             "location": ""
                                                         },
                                                         {
-                                                            "id": "aks0xx5veghvp9j5vrth",
-                                                            "title": "tracing.start",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 15,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "0e5ytg3zmweltqdado42",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 115,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "vzue69kum6o2c6vyvhql",
-                                                            "title": "browserContext.newPage",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 108,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "mfj2djyegi266uxyoro7",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 1,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "kn9wrcueo6y645ln50bm",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 16436,
-                                                    "location": "src/fixture.ts:9:26",
-                                                    "subs": [
-                                                        {
-                                                            "id": "2hj0te3lujmi9a8qdul8",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 4084,
-                                                            "location": "src/fixture.ts:45:16"
-                                                        },
-                                                        {
-                                                            "id": "vkasxaun3z5ujqxkqj4j",
-                                                            "title": "page.waitForLoadState",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 5,
-                                                            "location": "src/fixture.ts:46:16"
-                                                        },
-                                                        {
-                                                            "id": "6pf2a3e1uxhjpdibrrpu",
-                                                            "title": "page.waitForTimeout",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1021,
-                                                            "location": "src/fixture.ts:48:16"
-                                                        },
-                                                        {
-                                                            "id": "b4imd4lyh91w6kw56jjl",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1308,
-                                                            "location": "src/fixture.ts:51:16"
-                                                        },
-                                                        {
-                                                            "id": "lmy15b54t94zl2a8z9ru",
-                                                            "title": "locator.getByText('E2E Test Dapp').waitFor",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 10010,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
-                                                        }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "lmy15b54t94zl2a8z9ru"
-                                                }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "lmy15b54t94zl2a8z9ru"
-                                        },
-                                        {
-                                            "id": "o9qmd1ppqd0vt3ag18xq",
-                                            "title": "After Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 60260,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "8j0xridau7xm6o39p575",
-                                                    "title": "page.screenshot",
-                                                    "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 205,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "h7tb3li0jzxco1pygnab",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 1,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "pqojvrh4966gzixo9726",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "qeo195wg7scjnao7d2p9",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "id": "2pjcnc3umv210ctjo35m",
-                                            "title": "Retry #1",
-                                            "type": "step",
-                                            "stepType": "retry",
-                                            "status": "retry",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "id": "dhfboc53o43xrw73osms",
-                                            "title": "Before Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 14340,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "ronpo52nmpwrzc2akyhs",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 157,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "8ctgv4o0d2bpapc91ysz",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 155,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "eu0jnrt5lyh16uf69ujz",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 18,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "whcborzteod8hzkbm66u",
-                                                            "title": "browser.newContext",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 9,
-                                                            "location": ""
-                                                        },
-                                                        {
-                                                            "id": "42yhveylphfryivq0oj1",
+                                                            "id": "1s4r7qhays5kbave141l",
                                                             "title": "tracing.start",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -1835,237 +481,25 @@
                                                     ]
                                                 },
                                                 {
-                                                    "id": "yq5edp916jqpe4kfaemf",
+                                                    "id": "y5ex3gemf6g942lpl9g0",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 68,
+                                                    "duration": 60,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7buzzzm1wf74rz6rp1oo",
+                                                            "id": "1b28bw7rszf6x3d4z2wk",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 67,
+                                                            "duration": 57,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "hf0ckg1dtlzch6m652g2",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "xt2bbbmi9zazj40hk03q",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 14059,
-                                                    "location": "src/fixture.ts:9:26",
-                                                    "subs": [
-                                                        {
-                                                            "id": "wp3idq23vos5xxvfu656",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1853,
-                                                            "location": "src/fixture.ts:45:16"
-                                                        },
-                                                        {
-                                                            "id": "dr663a608fuetjwxc4if",
-                                                            "title": "page.waitForLoadState",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 5,
-                                                            "location": "src/fixture.ts:46:16"
-                                                        },
-                                                        {
-                                                            "id": "muj981uq4kavku2u1kcs",
-                                                            "title": "page.waitForTimeout",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1033,
-                                                            "location": "src/fixture.ts:48:16"
-                                                        },
-                                                        {
-                                                            "id": "pv90nz7oajymcbwtnk8j",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1148,
-                                                            "location": "src/fixture.ts:51:16"
-                                                        },
-                                                        {
-                                                            "id": "mqtsmy1x6oo2d6r9mmpk",
-                                                            "title": "locator.getByText('E2E Test Dapp').waitFor",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 10013,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
-                                                        }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "mqtsmy1x6oo2d6r9mmpk"
-                                                }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "mqtsmy1x6oo2d6r9mmpk"
-                                        },
-                                        {
-                                            "id": "pi4nuz9b81z4gvzds8nh",
-                                            "title": "After Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 248,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "ht4j7pl4vu1qzl83xiag",
-                                                    "title": "page.screenshot",
-                                                    "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 117,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "q7gxgivl7qkxv2cdjxo0",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "bet1kzkdxlslt53p4y72",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "s3du1rk9s83f50yqac8s",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "4tfiq5b6h4617q0vj81t",
-                                                    "title": "attach \"screenshot\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 2,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "2uzaobe8kwh0yhe3d5xh",
-                                                    "title": "attach \"trace\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "z7znui94etnpzkqc8yft",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 19,
-                                                    "location": ""
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "id": "flrj1wvvux8jda5t4yw8",
-                                            "title": "Retry #2",
-                                            "type": "step",
-                                            "stepType": "retry",
-                                            "status": "retry",
-                                            "retry": 2
-                                        },
-                                        {
-                                            "id": "wpf2n6evznf68f1dw5mu",
-                                            "title": "Before Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 14343,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "8e1nz3rc1h8dz4ngxusr",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 169,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "ep06b87kbr4vtsjezhjy",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 165,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "qzm09gtk2dz6t3l53nzc",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 31,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "pmgcpi0ci9vu1i86ant9",
-                                                            "title": "browser.newContext",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 14,
-                                                            "location": ""
-                                                        },
-                                                        {
-                                                            "id": "xv4dfej7pihkl4fg85xg",
-                                                            "title": "tracing.start",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 3,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "54iv0dnt5qic67hbjo4n",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 45,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "d7kmbeis4znhm148yak0",
-                                                            "title": "browserContext.newPage",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 44,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "jxx6o8ejz9otrpam1cc9",
+                                                    "id": "gisefnt93bc7pxxu5m2g",
                                                     "title": "fixture: config",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2073,23 +507,23 @@
                                                     "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "9j2u01vhlif3ekbvodru",
+                                                    "id": "kcts34te5oas5ooht8er",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 14069,
+                                                    "duration": 8897,
                                                     "location": "src/fixture.ts:9:26",
                                                     "subs": [
                                                         {
-                                                            "id": "zsg40kper3ysz2i8jc4j",
+                                                            "id": "1qyoeex3aryku8z65l65",
                                                             "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1835,
+                                                            "duration": 4697,
                                                             "location": "src/fixture.ts:45:16"
                                                         },
                                                         {
-                                                            "id": "pwm7ip4500c6svi0n84o",
+                                                            "id": "14ep38xkobkict8fzu98",
                                                             "title": "page.waitForLoadState",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -2097,59 +531,101 @@
                                                             "location": "src/fixture.ts:46:16"
                                                         },
                                                         {
-                                                            "id": "071lg933gf0r1pv2iela",
+                                                            "id": "7pwjop4b6fth54otjfnv",
                                                             "title": "page.waitForTimeout",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1037,
-                                                            "location": "src/fixture.ts:48:16"
+                                                            "duration": 1026,
+                                                            "location": "src/fixture.ts:48:16",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "k03oe1uv28g6ol3w32sx",
+                                                                    "title": "frame.evaluate",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 22,
+                                                                    "location": "src/utils/localforage.ts:46:25"
+                                                                }
+                                                            ]
                                                         },
                                                         {
-                                                            "id": "i85vre7gksqi0v9n9b1e",
+                                                            "id": "lutcsbre3ksafa9d2lx1",
                                                             "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1169,
+                                                            "duration": 1753,
                                                             "location": "src/fixture.ts:51:16"
                                                         },
                                                         {
-                                                            "id": "ka4x36b9a1x0juwcewhx",
+                                                            "id": "j50bftpmdt1rc10p8edg",
                                                             "title": "locator.getByText('E2E Test Dapp').waitFor",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 10016,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
+                                                            "duration": 1406,
+                                                            "location": "src/fixture.ts:53:16"
                                                         }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "ka4x36b9a1x0juwcewhx"
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "p8zzk00qvg425yg0xzq1",
+                                                    "title": "fixture: chain",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/fixture.ts:9:26"
                                                 }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "ka4x36b9a1x0juwcewhx"
+                                            ]
                                         },
                                         {
-                                            "id": "bj8a10wb0sfd5azjhm6r",
+                                            "id": "901vv7ymzrjp1sfc5npc",
+                                            "title": "locator.getByText('E2E Test Dapp').click",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 162,
+                                            "location": "src/scenarios/test/example.test.ts:4:41"
+                                        },
+                                        {
+                                            "id": "88ni913bs6cfzjbkxy0r",
+                                            "title": "locator.getByRole('link', { name: 'Tokens' }).click",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 117,
+                                            "location": "src/scenarios/test/example.test.ts:5:52"
+                                        },
+                                        {
+                                            "id": "homxxt5ho0zm5786zrxe",
+                                            "title": "locator.getByText('Baobab').waitFor",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 2428,
+                                            "location": "src/scenarios/test/example.test.ts:7:15"
+                                        },
+                                        {
+                                            "id": "ldty4s1pplj0y65uz9rr",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 247,
+                                            "duration": 137,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "rtipzywqjf02kvmw1jg9",
-                                                    "title": "page.screenshot",
+                                                    "id": "9o1gs9v19vnl0929m7f5",
+                                                    "title": "fixture: chain",
                                                     "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 107,
-                                                    "location": ""
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "dkjhpqtfk509ws4h6d3m",
+                                                    "id": "14cj16rgxop9l5xs73za",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": "src/fixture.ts:9:26"
+                                                },
+                                                {
+                                                    "id": "lnab3nz2nz154af2xfvu",
                                                     "title": "fixture: config",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2157,7 +633,7 @@
                                                     "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "n94x16f15obeyp0ejee6",
+                                                    "id": "yqtxy02b53t5rk7dcknw",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2165,68 +641,16 @@
                                                     "location": ""
                                                 },
                                                 {
-                                                    "id": "ulhoxep8r3a0js3a8gkp",
+                                                    "id": "s80rdozxy6gm5ce14j6q",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
                                                     "duration": 0,
                                                     "location": ""
-                                                },
-                                                {
-                                                    "id": "piwpozocgmratqir7b34",
-                                                    "title": "attach \"screenshot\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 1,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "auuvt6ytlg9z3m57epmk",
-                                                    "title": "attach \"trace\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 2,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "wkpc2nabm4etsbn3vrhv",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 15,
-                                                    "location": ""
                                                 }
                                             ]
                                         }
-                                    ],
-                                    "attachments": [
-                                        {
-                                            "name": "screenshot",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry1/test-failed-1.png",
-                                            "contentType": "image/png",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "name": "trace",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry1/trace.zip",
-                                            "contentType": "application/zip",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "name": "screenshot",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry2/test-failed-1.png",
-                                            "contentType": "image/png",
-                                            "retry": 2
-                                        },
-                                        {
-                                            "name": "trace",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry2/trace.zip",
-                                            "contentType": "application/zip",
-                                            "retry": 2
-                                        }
-                                    ],
-                                    "errorNum": 3,
-                                    "errorId": "lmy15b54t94zl2a8z9ru"
+                                    ]
                                 }
                             ],
                             "location": "src/scenarios/test/example.test.ts:0:0"
@@ -2236,13 +660,13 @@
             ]
         },
         {
-            "title": "fv-az339-507",
+            "title": "fv-az557-521",
             "type": "suite",
             "suiteType": "shard",
             "caseNum": 1,
             "subs": [
                 {
-                    "id": "x41zni7gxtb0tlkgagez",
+                    "id": "x4buy3hqbeb1tbwj5pxt",
                     "title": "project",
                     "type": "suite",
                     "suiteType": "project",
@@ -2259,259 +683,67 @@
                                     "id": "63bb86d2504bb6186558",
                                     "title": "check if token exists for current chain",
                                     "type": "case",
-                                    "caseType": "failed",
-                                    "ok": false,
-                                    "outcome": "unexpected",
+                                    "caseType": "passed",
+                                    "ok": true,
+                                    "outcome": "expected",
                                     "expectedStatus": "passed",
                                     "location": "src/scenarios/test/example.test.ts:3:5",
                                     "timestamps": [
-                                        1704687139779,
-                                        1704687217055,
-                                        1704687247677,
-                                        1704687262270,
-                                        1704687262887,
-                                        1704687277481
+                                        1704687663663,
+                                        1704687675853
                                     ],
-                                    "duration": 137702,
+                                    "duration": 12190,
                                     "timeout": 60000,
-                                    "retry": 2,
-                                    "status": "failed",
-                                    "stepNum": 66,
-                                    "stepFailed": 9,
+                                    "retry": 0,
+                                    "status": "passed",
+                                    "stepNum": 26,
+                                    "stepFailed": 0,
                                     "stepSubs": true,
                                     "subs": [
                                         {
-                                            "id": "ayzedxu83s7v4gjbpkds",
+                                            "id": "ji7pyb908yflz13vb61p",
                                             "title": "Before Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 17012,
+                                            "duration": 9339,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "zwxots71vdk1l8gpaika",
+                                                    "id": "g8ss78d0vy3j5jbtja2j",
                                                     "title": "fixture: browser",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 312,
+                                                    "duration": 281,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0ce1rm2pxoo2mjaj98mj",
+                                                            "id": "kjcjdngwnxqq79wkbvyo",
                                                             "title": "browserType.launch",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 305,
+                                                            "duration": 276,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "48w7m290zitd3vzn1a3x",
+                                                    "id": "uk0463x655acsbexw7uo",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 103,
+                                                    "duration": 34,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "0godl1nb67neqj74ehzy",
+                                                            "id": "njit9wzfu3oj82gcw0hy",
                                                             "title": "browser.newContext",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 49,
+                                                            "duration": 17,
                                                             "location": ""
                                                         },
                                                         {
-                                                            "id": "aks0xx5veghvp9j5vrth",
-                                                            "title": "tracing.start",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 15,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "0e5ytg3zmweltqdado42",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 115,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "vzue69kum6o2c6vyvhql",
-                                                            "title": "browserContext.newPage",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 108,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "mfj2djyegi266uxyoro7",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 1,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "kn9wrcueo6y645ln50bm",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 16436,
-                                                    "location": "src/fixture.ts:9:26",
-                                                    "subs": [
-                                                        {
-                                                            "id": "2hj0te3lujmi9a8qdul8",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 4084,
-                                                            "location": "src/fixture.ts:45:16"
-                                                        },
-                                                        {
-                                                            "id": "vkasxaun3z5ujqxkqj4j",
-                                                            "title": "page.waitForLoadState",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 5,
-                                                            "location": "src/fixture.ts:46:16"
-                                                        },
-                                                        {
-                                                            "id": "6pf2a3e1uxhjpdibrrpu",
-                                                            "title": "page.waitForTimeout",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1021,
-                                                            "location": "src/fixture.ts:48:16"
-                                                        },
-                                                        {
-                                                            "id": "b4imd4lyh91w6kw56jjl",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1308,
-                                                            "location": "src/fixture.ts:51:16"
-                                                        },
-                                                        {
-                                                            "id": "lmy15b54t94zl2a8z9ru",
-                                                            "title": "locator.getByText('E2E Test Dapp').waitFor",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 10010,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
-                                                        }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "lmy15b54t94zl2a8z9ru"
-                                                }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "lmy15b54t94zl2a8z9ru"
-                                        },
-                                        {
-                                            "id": "o9qmd1ppqd0vt3ag18xq",
-                                            "title": "After Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 60260,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "8j0xridau7xm6o39p575",
-                                                    "title": "page.screenshot",
-                                                    "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 205,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "h7tb3li0jzxco1pygnab",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 1,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "pqojvrh4966gzixo9726",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "qeo195wg7scjnao7d2p9",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "id": "2pjcnc3umv210ctjo35m",
-                                            "title": "Retry #1",
-                                            "type": "step",
-                                            "stepType": "retry",
-                                            "status": "retry",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "id": "dhfboc53o43xrw73osms",
-                                            "title": "Before Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 14340,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "ronpo52nmpwrzc2akyhs",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 157,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "8ctgv4o0d2bpapc91ysz",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 155,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "eu0jnrt5lyh16uf69ujz",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 18,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "whcborzteod8hzkbm66u",
-                                                            "title": "browser.newContext",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 9,
-                                                            "location": ""
-                                                        },
-                                                        {
-                                                            "id": "42yhveylphfryivq0oj1",
+                                                            "id": "1s4r7qhays5kbave141l",
                                                             "title": "tracing.start",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -2521,237 +753,25 @@
                                                     ]
                                                 },
                                                 {
-                                                    "id": "yq5edp916jqpe4kfaemf",
+                                                    "id": "y5ex3gemf6g942lpl9g0",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 68,
+                                                    "duration": 60,
                                                     "location": "",
                                                     "subs": [
                                                         {
-                                                            "id": "7buzzzm1wf74rz6rp1oo",
+                                                            "id": "1b28bw7rszf6x3d4z2wk",
                                                             "title": "browserContext.newPage",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 67,
+                                                            "duration": 57,
                                                             "location": ""
                                                         }
                                                     ]
                                                 },
                                                 {
-                                                    "id": "hf0ckg1dtlzch6m652g2",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "xt2bbbmi9zazj40hk03q",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 14059,
-                                                    "location": "src/fixture.ts:9:26",
-                                                    "subs": [
-                                                        {
-                                                            "id": "wp3idq23vos5xxvfu656",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1853,
-                                                            "location": "src/fixture.ts:45:16"
-                                                        },
-                                                        {
-                                                            "id": "dr663a608fuetjwxc4if",
-                                                            "title": "page.waitForLoadState",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 5,
-                                                            "location": "src/fixture.ts:46:16"
-                                                        },
-                                                        {
-                                                            "id": "muj981uq4kavku2u1kcs",
-                                                            "title": "page.waitForTimeout",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1033,
-                                                            "location": "src/fixture.ts:48:16"
-                                                        },
-                                                        {
-                                                            "id": "pv90nz7oajymcbwtnk8j",
-                                                            "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 1148,
-                                                            "location": "src/fixture.ts:51:16"
-                                                        },
-                                                        {
-                                                            "id": "mqtsmy1x6oo2d6r9mmpk",
-                                                            "title": "locator.getByText('E2E Test Dapp').waitFor",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 10013,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
-                                                        }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "mqtsmy1x6oo2d6r9mmpk"
-                                                }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "mqtsmy1x6oo2d6r9mmpk"
-                                        },
-                                        {
-                                            "id": "pi4nuz9b81z4gvzds8nh",
-                                            "title": "After Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 248,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "ht4j7pl4vu1qzl83xiag",
-                                                    "title": "page.screenshot",
-                                                    "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 117,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "q7gxgivl7qkxv2cdjxo0",
-                                                    "title": "fixture: config",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": "src/fixture.ts:9:26"
-                                                },
-                                                {
-                                                    "id": "bet1kzkdxlslt53p4y72",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "s3du1rk9s83f50yqac8s",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "4tfiq5b6h4617q0vj81t",
-                                                    "title": "attach \"screenshot\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 2,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "2uzaobe8kwh0yhe3d5xh",
-                                                    "title": "attach \"trace\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 0,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "z7znui94etnpzkqc8yft",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 19,
-                                                    "location": ""
-                                                }
-                                            ]
-                                        },
-                                        {
-                                            "id": "flrj1wvvux8jda5t4yw8",
-                                            "title": "Retry #2",
-                                            "type": "step",
-                                            "stepType": "retry",
-                                            "status": "retry",
-                                            "retry": 2
-                                        },
-                                        {
-                                            "id": "wpf2n6evznf68f1dw5mu",
-                                            "title": "Before Hooks",
-                                            "type": "step",
-                                            "stepType": "hook",
-                                            "duration": 14343,
-                                            "location": "",
-                                            "subs": [
-                                                {
-                                                    "id": "8e1nz3rc1h8dz4ngxusr",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 169,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "ep06b87kbr4vtsjezhjy",
-                                                            "title": "browserType.launch",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 165,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "qzm09gtk2dz6t3l53nzc",
-                                                    "title": "fixture: context",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 31,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "pmgcpi0ci9vu1i86ant9",
-                                                            "title": "browser.newContext",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 14,
-                                                            "location": ""
-                                                        },
-                                                        {
-                                                            "id": "xv4dfej7pihkl4fg85xg",
-                                                            "title": "tracing.start",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 3,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "54iv0dnt5qic67hbjo4n",
-                                                    "title": "fixture: page",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 45,
-                                                    "location": "",
-                                                    "subs": [
-                                                        {
-                                                            "id": "d7kmbeis4znhm148yak0",
-                                                            "title": "browserContext.newPage",
-                                                            "type": "step",
-                                                            "stepType": "pw:api",
-                                                            "duration": 44,
-                                                            "location": ""
-                                                        }
-                                                    ]
-                                                },
-                                                {
-                                                    "id": "jxx6o8ejz9otrpam1cc9",
+                                                    "id": "gisefnt93bc7pxxu5m2g",
                                                     "title": "fixture: config",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2759,23 +779,23 @@
                                                     "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "9j2u01vhlif3ekbvodru",
+                                                    "id": "kcts34te5oas5ooht8er",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
-                                                    "duration": 14069,
+                                                    "duration": 8897,
                                                     "location": "src/fixture.ts:9:26",
                                                     "subs": [
                                                         {
-                                                            "id": "zsg40kper3ysz2i8jc4j",
+                                                            "id": "1qyoeex3aryku8z65l65",
                                                             "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1835,
+                                                            "duration": 4697,
                                                             "location": "src/fixture.ts:45:16"
                                                         },
                                                         {
-                                                            "id": "pwm7ip4500c6svi0n84o",
+                                                            "id": "14ep38xkobkict8fzu98",
                                                             "title": "page.waitForLoadState",
                                                             "type": "step",
                                                             "stepType": "pw:api",
@@ -2783,59 +803,101 @@
                                                             "location": "src/fixture.ts:46:16"
                                                         },
                                                         {
-                                                            "id": "071lg933gf0r1pv2iela",
+                                                            "id": "7pwjop4b6fth54otjfnv",
                                                             "title": "page.waitForTimeout",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1037,
-                                                            "location": "src/fixture.ts:48:16"
+                                                            "duration": 1026,
+                                                            "location": "src/fixture.ts:48:16",
+                                                            "subs": [
+                                                                {
+                                                                    "id": "k03oe1uv28g6ol3w32sx",
+                                                                    "title": "frame.evaluate",
+                                                                    "type": "step",
+                                                                    "stepType": "pw:api",
+                                                                    "duration": 22,
+                                                                    "location": "src/utils/localforage.ts:46:25"
+                                                                }
+                                                            ]
                                                         },
                                                         {
-                                                            "id": "i85vre7gksqi0v9n9b1e",
+                                                            "id": "lutcsbre3ksafa9d2lx1",
                                                             "title": "page.goto(https://testnet.dashboard.stage.facewallet.xyz)",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 1169,
+                                                            "duration": 1753,
                                                             "location": "src/fixture.ts:51:16"
                                                         },
                                                         {
-                                                            "id": "ka4x36b9a1x0juwcewhx",
+                                                            "id": "j50bftpmdt1rc10p8edg",
                                                             "title": "locator.getByText('E2E Test Dapp').waitFor",
                                                             "type": "step",
                                                             "stepType": "pw:api",
-                                                            "duration": 10016,
-                                                            "location": "src/fixture.ts:53:16",
-                                                            "errors": [
-                                                                "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\n=========================== logs ===========================\nwaiting for getByText('E2E Test Dapp') to be visible\n============================================================\n\n  51 |     await page.goto('https://testnet.dashboard.stage.facewallet.xyz');\n  52 |     const dapp = page.getByText('E2E Test Dapp');\n> 53 |     await dapp.waitFor({ state: 'visible', timeout: 10000 });\n     |                ^\n\n    at Object.page (/home/runner/work/face-mask/face-mask/packages/e2e-dashboard/src/fixture.ts:53:16)"
-                                                            ],
-                                                            "errorNum": 1
+                                                            "duration": 1406,
+                                                            "location": "src/fixture.ts:53:16"
                                                         }
-                                                    ],
-                                                    "errorNum": 1,
-                                                    "errorId": "ka4x36b9a1x0juwcewhx"
+                                                    ]
+                                                },
+                                                {
+                                                    "id": "p8zzk00qvg425yg0xzq1",
+                                                    "title": "fixture: chain",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/fixture.ts:9:26"
                                                 }
-                                            ],
-                                            "errorNum": 1,
-                                            "errorId": "ka4x36b9a1x0juwcewhx"
+                                            ]
                                         },
                                         {
-                                            "id": "bj8a10wb0sfd5azjhm6r",
+                                            "id": "901vv7ymzrjp1sfc5npc",
+                                            "title": "locator.getByText('E2E Test Dapp').click",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 162,
+                                            "location": "src/scenarios/test/example.test.ts:4:41"
+                                        },
+                                        {
+                                            "id": "88ni913bs6cfzjbkxy0r",
+                                            "title": "locator.getByRole('link', { name: 'Tokens' }).click",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 117,
+                                            "location": "src/scenarios/test/example.test.ts:5:52"
+                                        },
+                                        {
+                                            "id": "homxxt5ho0zm5786zrxe",
+                                            "title": "locator.getByText('Baobab').waitFor",
+                                            "type": "step",
+                                            "stepType": "pw:api",
+                                            "duration": 2428,
+                                            "location": "src/scenarios/test/example.test.ts:7:15"
+                                        },
+                                        {
+                                            "id": "ldty4s1pplj0y65uz9rr",
                                             "title": "After Hooks",
                                             "type": "step",
                                             "stepType": "hook",
-                                            "duration": 247,
+                                            "duration": 137,
                                             "location": "",
                                             "subs": [
                                                 {
-                                                    "id": "rtipzywqjf02kvmw1jg9",
-                                                    "title": "page.screenshot",
+                                                    "id": "9o1gs9v19vnl0929m7f5",
+                                                    "title": "fixture: chain",
                                                     "type": "step",
-                                                    "stepType": "pw:api",
-                                                    "duration": 107,
-                                                    "location": ""
+                                                    "stepType": "fixture",
+                                                    "duration": 1,
+                                                    "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "dkjhpqtfk509ws4h6d3m",
+                                                    "id": "14cj16rgxop9l5xs73za",
+                                                    "title": "fixture: page",
+                                                    "type": "step",
+                                                    "stepType": "fixture",
+                                                    "duration": 0,
+                                                    "location": "src/fixture.ts:9:26"
+                                                },
+                                                {
+                                                    "id": "lnab3nz2nz154af2xfvu",
                                                     "title": "fixture: config",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2843,7 +905,7 @@
                                                     "location": "src/fixture.ts:9:26"
                                                 },
                                                 {
-                                                    "id": "n94x16f15obeyp0ejee6",
+                                                    "id": "yqtxy02b53t5rk7dcknw",
                                                     "title": "fixture: page",
                                                     "type": "step",
                                                     "stepType": "fixture",
@@ -2851,68 +913,16 @@
                                                     "location": ""
                                                 },
                                                 {
-                                                    "id": "ulhoxep8r3a0js3a8gkp",
+                                                    "id": "s80rdozxy6gm5ce14j6q",
                                                     "title": "fixture: context",
                                                     "type": "step",
                                                     "stepType": "fixture",
                                                     "duration": 0,
                                                     "location": ""
-                                                },
-                                                {
-                                                    "id": "piwpozocgmratqir7b34",
-                                                    "title": "attach \"screenshot\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 1,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "auuvt6ytlg9z3m57epmk",
-                                                    "title": "attach \"trace\"",
-                                                    "type": "step",
-                                                    "stepType": "attach",
-                                                    "duration": 2,
-                                                    "location": ""
-                                                },
-                                                {
-                                                    "id": "wkpc2nabm4etsbn3vrhv",
-                                                    "title": "fixture: browser",
-                                                    "type": "step",
-                                                    "stepType": "fixture",
-                                                    "duration": 15,
-                                                    "location": ""
                                                 }
                                             ]
                                         }
-                                    ],
-                                    "attachments": [
-                                        {
-                                            "name": "screenshot",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry1/test-failed-1.png",
-                                            "contentType": "image/png",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "name": "trace",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry1/trace.zip",
-                                            "contentType": "application/zip",
-                                            "retry": 1
-                                        },
-                                        {
-                                            "name": "screenshot",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry2/test-failed-1.png",
-                                            "contentType": "image/png",
-                                            "retry": 2
-                                        },
-                                        {
-                                            "name": "trace",
-                                            "path": "scenarios-test-example-check-if-token-exists-for-current-chain-retry2/trace.zip",
-                                            "contentType": "application/zip",
-                                            "retry": 2
-                                        }
-                                    ],
-                                    "errorNum": 3,
-                                    "errorId": "lmy15b54t94zl2a8z9ru"
+                                    ]
                                 }
                             ],
                             "location": "src/scenarios/test/example.test.ts:0:0"
@@ -2946,11 +956,11 @@
         },
         "passed": {
             "name": "Passed",
-            "value": 0,
+            "value": 2,
             "color": "green",
             "nav": true,
             "id": "passed",
-            "percent": "0.0%"
+            "percent": "100.0%"
         },
         "flaky": {
             "name": "Flaky",
@@ -2970,15 +980,15 @@
         },
         "failed": {
             "name": "Failed",
-            "value": 2,
+            "value": 0,
             "color": "#d00",
             "nav": true,
             "id": "failed",
-            "percent": "100.0%"
+            "percent": "0.0%"
         },
         "steps": {
             "name": "Steps",
-            "value": 136,
+            "value": 52,
             "id": "steps"
         },
         "suites": {
@@ -3012,12 +1022,12 @@
         },
         "retries": {
             "name": "Retries",
-            "value": 4,
+            "value": 0,
             "id": "retries"
         },
         "errors": {
             "name": "Errors",
-            "value": 6,
+            "value": 0,
             "id": "errors"
         },
         "logs": {
@@ -3027,7 +1037,7 @@
         },
         "attachments": {
             "name": "Attachments",
-            "value": 8,
+            "value": 0,
             "id": "attachments"
         }
     },
@@ -3036,6 +1046,6 @@
         "width": 360,
         "height": 150,
         "margin": 10,
-        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">2</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g></g></svg>"
+        "svg": "<svg viewBox=\"0 0 360 150\" width=\"100%\" height=\"100%\" xmlns=\"http://www.w3.org/2000/svg\"><g class=\"mcr-pie-path-passed\"><path d=\"M75,75 L75,10 A65,65 0 1 1 75,140 A65,65 0 1 1 75,10 z\" fill=\"green\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-flaky\"><path d=\"\" fill=\"orange\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-skipped\"><path d=\"\" fill=\"gray\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g class=\"mcr-pie-path-failed\"><path d=\"\" fill=\"#d00\" opacity=\"0.8\" /><animateTransform from=\"0,0\" to=\"0,0\" pos=\"0,-10\" attributeName=\"transform\" type=\"translate\" dur=\"0.2s\" fill=\"freeze\" repeatCount=\"1\" restart=\"always\" /></g><g transform=\"translate(160 10)\"><g class=\"mcr-pie-legend-passed\" transform=\"translate(0 0)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"green\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Passed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">2</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">100.0%</text></g><g class=\"mcr-pie-legend-flaky\" transform=\"translate(0 32)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"orange\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Flaky</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-skipped\" transform=\"translate(0 64)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"gray\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Skipped</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g><g class=\"mcr-pie-legend-failed\" transform=\"translate(0 96)\"><circle cx=\"10\" cy=\"16\" r=\"10\" fill=\"#d00\" opacity=\"0.8\" /><text x=\"30\" y=\"16\" alignment-baseline=\"middle\">Failed</text><text x=\"115\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"middle\">0</text><text x=\"190\" y=\"16\" alignment-baseline=\"middle\" text-anchor=\"end\">0.0%</text></g></g></svg>"
     }
 }
